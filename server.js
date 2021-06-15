@@ -10,7 +10,7 @@ const menuItemsRouter = require('./routes/menu-items-route')
 const itemsRouter = require('./routes/items-route')
 
 // Set default port for express app
-const PORT = process.env.PORT || 4002
+const PORT = process.env.PORT || 3000
 
 // Create express app
 const app = express()
